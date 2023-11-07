@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url> 
+    <loc>/home/tarde/Escritorio/Interfaces/Solas-Martos-Mario-ej03/index.html</loc> 
+    <lastmod>2023-10-31</lastmod> 
+    <changefreq>diary</changefreq> 
+    <priority>0.8</priority> 
+</url> 
+<url> 
+    <loc>https://ejemplo.com/pagina2/</loc> 
+</url> 
+<!-- Más URLs aquí --> 
+</urlset> 
